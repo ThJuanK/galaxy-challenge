@@ -42,7 +42,9 @@ Este proyecto es una aplicación de React Native usando expo.
     npm i
     ```
 
-2. Levanta la aplicación con alguna de las alternativas:
+2. Copia el archivo ```.env.example```, renombralo a ```.env``` y agrega la url correspondiente al api de Spring
+
+3. Levanta la aplicación con alguna de las alternativas:
 
     ```
     npm start ios
